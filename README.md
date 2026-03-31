@@ -1,6 +1,11 @@
 # KEYLESS-BITE-BY-NIGHT-SCRIPT-GOD-MODE-AND-KILL-AURA-
 Kill aura  God mode  Esp  Tp  Auto generators  Auto barricade  Speed  Inf stamina
-code:local HttpService = game:GetService("HttpService")
+ 
+ 
+ 
+ 
+ code:
+local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local PlayerGui = player:WaitForChild("PlayerGui")
